@@ -17,10 +17,7 @@ Don't judge my code too much 🙏 I'm still learning and most of this is BoredCo
   <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&hide=stars&show_icons=true&count_private=true"  align="left"/>
 </a>
 <br>
+<p>As you can see, I do mostly Python 🐍 programs, but am open to trying nearly any other language</p>
 <a href="#">
-  <img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"  align="left"/>
-</a>
-<br>
-<a href="#">
-  <img src="https://stats-boredmancodes.vercel.app/api/top-langs/?username=BoredManCodes&langs_count=3"  align="center"/>
+  <img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"  align="right"/>
 </a>

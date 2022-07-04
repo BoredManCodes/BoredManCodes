@@ -20,8 +20,7 @@ Don't judge my code too much 🙏 I'm still learning and most of this is BoredCo
 <a href="#">
   <img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"  align="left"/>
 </a>
----
 <br>
 <a href="#">
-  <img src="https://stats-boredmancodes.vercel.app/api/top-langs/?username=BoredManCodes&langs_count=3"  align="left"/>
+  <img src="https://stats-boredmancodes.vercel.app/api/top-langs/?username=BoredManCodes&langs_count=3"  align="center"/>
 </a>

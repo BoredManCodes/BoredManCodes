@@ -8,6 +8,9 @@ AKA: BoredManPlays, Trent Buckley <br>
   <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/roles-rounded.png"/>
 </a>
 # Welcome
+<a href="#">
+  <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/wave.gif"/>
+</a>
 Hi there!
 Not sure why you are checking out my profile, but welcome, brush off the dust and cobwebs and have a look around<br>
 Don't judge my code too much 🙏 I'm still learning and most of this is BoredCode™ and just barely works

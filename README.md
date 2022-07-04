@@ -5,7 +5,7 @@ AKA: BoredManPlays, Trent Buckley <br>
 </a>
 <br>
 <a href="#">
-  <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/roles.png"/>
+  <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/roles-rounded.png"/>
 </a>
 # Welcome
 Hi there!

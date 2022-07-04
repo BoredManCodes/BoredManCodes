@@ -18,7 +18,9 @@ Don't judge my code too much 🙏 I'm still learning and most of this is BoredCo
 </a>
 <p>No idea what kind of rating system would assign me "A+" 😆
 <br>
-<p>As you can see, I do mostly Python 🐍 programs, but am open to trying nearly any other language</p>
-<a href="#">
+<div align="left">
+  <p>As you can see, I do mostly Python 🐍 programs, but am open to trying nearly any other language</p>
+</div>
+  <a href="#">
   <img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"  align="right"/>
 </a>

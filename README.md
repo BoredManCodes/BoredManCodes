@@ -9,7 +9,7 @@ AKA: BoredManPlays, Trent Buckley <br>
 </a>
 # Welcome
 Hi there!
-Not sure why you are checking out my profile, but welcome, brush off the dust and cobwebs and have a look around
+Not sure why you are checking out my profile, but welcome, brush off the dust and cobwebs and have a look around<br>
 Don't judge my code too much 🙏 I'm still learning and most of this is BoredCode™ and just barely works
 <br>
 # Coding stats

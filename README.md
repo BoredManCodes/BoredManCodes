@@ -17,6 +17,7 @@ Don't judge my code too much 🙏 I'm still learning and most of this is BoredCo
 <a href="#">
   <img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"/>
 </a>
+<br>
 <a href="#">
   <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&show_icons=true&count_private=true"/>
 </a>

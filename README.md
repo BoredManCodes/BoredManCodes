@@ -16,6 +16,7 @@ Don't judge my code too much 🙏 I'm still learning and most of this is BoredCo
 <a href="#">
   <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&hide=stars&show_icons=true&count_private=true"  align="left"/>
 </a>
+<p>No idea what kind of rating system would assign me "A+" 😆
 <br>
 <p>As you can see, I do mostly Python 🐍 programs, but am open to trying nearly any other language</p>
 <a href="#">

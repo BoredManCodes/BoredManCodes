@@ -14,10 +14,10 @@ Don't judge my code too much 🙏 I'm still learning and most of this is BoredCo
 <br>
 # Coding stats
 <p>As you can see, I do mostly Python 🐍 programs, but am open to trying nearly any other language</p>
-<img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"  align="right"/>
+<img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"/>
 # GitHub stats
 <a href="#">
-  <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&hide=stars&show_icons=true&count_private=true"  align="left"/>
+  <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&hide=stars&show_icons=true&count_private=true"/>
 </a>
 <p>No idea what kind of rating system would assign me "A+" 😆
 <br>

@@ -10,14 +10,17 @@ AKA: BoredManPlays, Trent Buckley <br>
 # Welcome
 Hi there!
 Not sure why you are checking out my profile, but welcome, brush off the dust and cobwebs and have a look around
-
+Don't judge my code too much 🙏 I'm still learning and most of this is BoredCode™ and just barely works
+<br>
+# Coding stats
+<a href="#">
+  <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&hide=stars&show_icons=true&count_private=true"  align="left"/>
+</a>
 <br>
 <a href="#">
-  <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&hide=stars&show_icons=true&count_private=true"  align="right"/>
+  <img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"  align="left"/>
 </a>
+<br>
 <a href="#">
-  <img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"  align="right"/>
-</a>
-<a href="#">
-  <img src="https://stats-boredmancodes.vercel.app/api/top-langs/?username=BoredManCodes&langs_count=3"  align="right"/>
+  <img src="https://stats-boredmancodes.vercel.app/api/top-langs/?username=BoredManCodes&langs_count=3"  align="left"/>
 </a>

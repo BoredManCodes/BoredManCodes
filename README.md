@@ -1,15 +1,15 @@
 # BoredManCodes
 AKA: BoredManPlays, Trent Buckley <br>
 <a href="#">
-  <img src="https://lanyard.cnrad.dev/api/324504908013240330?hideBadges=true"/>
+  <img src="https://lanyard.cnrad.dev/api/324504908013240330?hideBadges=true"></img>
 </a>
 <br>
 <a href="#">
-  <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/roles-rounded.png"/>
+  <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/roles-rounded.png"></img>
 </a>
 # Welcome
 <a href="#">
-  <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/wave.gif"/>
+  <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/wave.gif"></img>
 </a>
 <br>
 Hi there!
@@ -19,11 +19,11 @@ Don't judge my code too much 🙏 I'm still learning and most of this is BoredCo
 # Coding stats
 <p>As you can see, I do mostly Python 🐍 programs, but am open to trying nearly any other language</p>
 <a href="#">
-  <img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"/>
+  <img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"></img>
 </a>
 <br>
 <a href="#">
-  <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&show_icons=true&count_private=true"/>
+  <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&show_icons=true&count_private=true"></img>
 </a>
 <p>No idea what kind of rating system would assign me "A+" 😆
 <br>

@@ -1,8 +1,8 @@
 <a href="#">
-  <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/roles.png"  align="left"/>
+  <img src="https://lanyard.cnrad.dev/api/324504908013240330?hideBadges=true"  align="left"/>
 </a>
 <a href="#">
-  <img src="https://lanyard.cnrad.dev/api/324504908013240330?hideBadges=true"  align="right"/>
+  <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/roles.png"  align="left"/>
 </a>
 <a href="#">
   <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&hide=stars&show_icons=true&count_private=true"  align="right"/>

@@ -1,10 +1,9 @@
 <a href="#">
-  <img src="https://lanyard.cnrad.dev/api/324504908013240330?hideBadges=true"  align="left"/>
+  <img src="https://lanyard.cnrad.dev/api/324504908013240330?hideBadges=true"/>
 </a>
 <br>
-# boop
 <a href="#">
-  <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/roles.png"  align="left"/>
+  <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/roles.png"/>
 </a>
 <br>
 <a href="#">

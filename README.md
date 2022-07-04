@@ -5,9 +5,9 @@
 </a>
 <br>
 <a href="#">
-  <img align="center" src="https://stats-boredmancodes.vercel.app/api/top-langs/?username=BoredManCodes&langs_count=3" />
+  <img align="center" src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes" />
 </a>
 <br>
 <a href="#">
-  <img align="center" src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes" />
+  <img align="center" src="https://stats-boredmancodes.vercel.app/api/top-langs/?username=BoredManCodes&langs_count=3" />
 </a>

@@ -1,3 +1,5 @@
+# BoredManCodes
+AKA: BoredManPlays, Trent Buckley
 <a href="#">
   <img src="https://lanyard.cnrad.dev/api/324504908013240330?hideBadges=true"/>
 </a>
@@ -5,6 +7,10 @@
 <a href="#">
   <img src="https://raw.githubusercontent.com/BoredManCodes/BoredManCodes/main/roles.png"/>
 </a>
+# Welcome
+Hi there!
+Not sure why you are checking out my profile, but welcome, brush off the dust and cobwebs and have a look around
+
 <br>
 <a href="#">
   <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&hide=stars&show_icons=true&count_private=true"  align="right"/>

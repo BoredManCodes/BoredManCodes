@@ -14,8 +14,9 @@ Don't judge my code too much 🙏 I'm still learning and most of this is BoredCo
 <br>
 # Coding stats
 <p>As you can see, I do mostly Python 🐍 programs, but am open to trying nearly any other language</p>
-<img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"/>
-# GitHub stats
+<a href="#">
+  <img src="https://stats-boredmancodes.vercel.app/api/wakatime?username=BoredManCodes"/>
+</a>
 <a href="#">
   <img src="https://stats-boredmancodes.vercel.app/api?username=BoredManCodes&show_icons=true&count_private=true"/>
 </a>

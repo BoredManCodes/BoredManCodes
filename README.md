@@ -1,5 +1,5 @@
 # BoredManCodes
-AKA: BoredManPlays, Trent Buckley
+AKA: BoredManPlays, Trent Buckley <br>
 <a href="#">
   <img src="https://lanyard.cnrad.dev/api/324504908013240330?hideBadges=true"/>
 </a>

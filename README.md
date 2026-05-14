@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/BoredManCodes">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=70&lines=Trent+Buckley;Aussie+dev+from+the+Riverina;Python+%E2%80%A2+Dart+%E2%80%A2+Java+%E2%80%A2+whatever+works;Building+BoredCode%E2%84%A2+since+2021" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=70&lines=Trent+Buckley;Aussie+dev+from+the+Riverina;Python+%E2%80%A2+Dart+%E2%80%A2+Java+%E2%80%A2+whatever+works;Building+BoredCode%E2%84%A2+since+2011" alt="typing intro" />
   </a>
 </div>
 
@@ -120,5 +120,5 @@ trent@boredcode:~$ neofetch
 <br />
 
 <div align="center">
-  <sub>BoredCode™ — code that just barely works, since 2021.</sub>
+  <sub>BoredCode™ — code that just barely works, since 2011.</sub>
 </div>

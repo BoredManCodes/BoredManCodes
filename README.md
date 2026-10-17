@@ -59,29 +59,29 @@ trent@boredcode:~$ neofetch
 <h2 align="center"><code>&gt; ls -la pinned/</code></h2>
 
 <div align="center">
-  <a href="https://github.com/BoredManCodes/itflow-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoredManCodes&repo=itflow-app&theme=tokyonight&hide_border=true" alt="itflow-app" />
+  <a href="https://github.com/BoredManCodes/ferrule">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoredManCodes&repo=ferrule&theme=tokyonight&hide_border=true" alt="ferrule" />
   </a>
-  <a href="https://github.com/BoredManCodes/DWGPOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoredManCodes&repo=DWGPOS&theme=tokyonight&hide_border=true" alt="DWGPOS" />
+  <a href="https://github.com/BoredManCodes/possums">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoredManCodes&repo=possums&theme=tokyonight&hide_border=true" alt="possums" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/BoredManCodes/KoalaBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoredManCodes&repo=KoalaBot&theme=tokyonight&hide_border=true" alt="KoalaBot" />
+  <a href="https://github.com/BoredManCodes/scanwright-releases">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoredManCodes&repo=scanwright-releases&theme=tokyonight&hide_border=true" alt="scanwright-releases" />
   </a>
+  <a href="https://github.com/BoredManCodes/tether">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoredManCodes&repo=tether&theme=tokyonight&hide_border=true" alt="tether" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/BoredManCodes/trent-buckley.com">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoredManCodes&repo=trent-buckley.com&theme=tokyonight&hide_border=true" alt="trent-buckley.com" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/BoredManCodes/Janet2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoredManCodes&repo=Janet2&theme=tokyonight&hide_border=true" alt="Janet2" />
-  </a>
-  <a href="https://github.com/BoredManCodes/SMP-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoredManCodes&repo=SMP-API&theme=tokyonight&hide_border=true" alt="SMP-API" />
+  <a href="https://github.com/BoredManCodes/tv-admute">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoredManCodes&repo=tv-admute&theme=tokyonight&hide_border=true" alt="tv-admute" />
   </a>
 </div>
 
